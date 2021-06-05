@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #799BCE ;
+  text-align: center;
+  cursor: pointer;
+}
+
+h1, h2, h3, h4 {
+  color: #3C57A9;
+}
+
+.container-fluid {
+  background-color: white;
+  width: 70%;
+  margin-top: 15rem;
+  border-radius: 5px;
+  box-shadow: 0 5px 30px -5px rgba(0, 0, 0, 0.6);
+}
+
+span {
+  font-size: 2rem;
+  font-weight: 500;
+  color: #3C57A9;
+}
+
+.pricing {
+  color: #3C57A9;
+}
+
+.col {
+  padding: 5%;
+}
+
+img {
+  width: 25%;
+  padding-bottom: 2rem;
+}
+
+.item_currency {
+  font-size: 14px;
+}
